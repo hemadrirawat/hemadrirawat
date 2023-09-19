@@ -8,13 +8,13 @@ I thrive on the ever-evolving nature of web technologies and the boundless possi
 You'll discover a collection of my projects, ranging from simple prototypes to complex applications. I believe in open-source collaboration and love sharing my work with the community. Expect to find code snippets, full-fledged applications, and useful libraries that demonstrate my skills and passion for developing new projects.
 
 ## **Tech Stack Symphony** 🎶
-In this journey, I harmonize with a diverse array of technologies to compose my web opuses:
+In this journey, I harmonize with a diverse array of technologies to compose my web opuses: </br>
 
-###Languages: HTML, CSS, JavaScript, C, C++, Python
-###Frontend: HTML, CSS, Javascript
-###Backend: Flask, PHP, Bootstrap
-###Database: MySQL, PostgreSQL
-###Version Control: Git, GitHub
+###Languages: HTML, CSS, JavaScript, C, C++, Python </br>
+###Frontend: HTML, CSS, Javascript </br>
+###Backend: Flask, PHP, Bootstrap </br>
+###Database: MySQL, PostgreSQL </br>
+###Version Control: Git, GitHub </br>
 
 ## *What Awaits You in this Spectacle*
 Within this mystical realm, you'll unearth a treasure trove of my projects, a grand carnival of concepts, and full-fledged spectacles. I am an advocate for open-source collaboration, inviting you to witness, participate, and revel in the show. Expect to find captivating code snippets, full-fledged applications, and invaluable libraries that showcase my artistry and passion for web development.
