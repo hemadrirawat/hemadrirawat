@@ -1,4 +1,4 @@
-# **Welcome to My Web Development Playground! 👋**
+# **Welcome to My Web Development Arena! 👋**
 Hello there! I'm Hemadri Rawat a passionate web developer with an insatiable love for coding and crafting amazing web experiences. This GitHub repository is my creative playground where I experiment, innovate, and showcase my skills in the realm of web development.
 
 ## **About Me**
