@@ -1,5 +1,5 @@
 # Hello, everyone! 👋
-I am Hemadri Rawat, a 3rd year undergraduate student at Indira Gandhi Delhi Technical University of Technology. I am an enthusiastic developer 👩‍💻 and very passionate about learning and exploring new technologies 🚀
+I am Hemadri Rawat, a 4th year undergraduate student at Indira Gandhi Delhi Technical University of Technology. I am an enthusiastic developer 👩‍💻 and very passionate about learning and exploring new technologies 🚀
 
 ---
 
