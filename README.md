@@ -12,11 +12,9 @@ She/Her
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="40"/>
 <a href="https://nodejs.org" target="_blank"> <img src="https://nodejs.org/static/images/logo.svg" height="48" /> </a> &nbsp;
 <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
 <img src="https://i.pinimg.com/originals/99/f8/87/99f887833c475448723d3c9ac16c179b.png" alt="C++" width="40" height="40"/> 
 <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a> 
-<a href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/dusk/64/000000/php-logo.png"/> </a>  
 </p>
 
 * My primary coding language: C++
