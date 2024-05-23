@@ -1,5 +1,7 @@
-# Hello, geeks! 👋
+# Hello, everyone! 👋
 I am Hemadri Rawat, a 3rd year undergraduate student at Indira Gandhi Delhi Technical University of Technology. I am an enthusiastic developer 👩‍💻 and very passionate about learning and exploring new technologies 🚀
+
+---
 
 ### 😄 Pronouns
 She/Her
@@ -29,21 +31,25 @@ She/Her
 - 📫 How to reach me **hemadrirawat049@gmail.com**
 
 - ⚡ Fun fact **Coffee over anything!!!**
-  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Hemadri049" alt="Hemadri Rawat" /> </p>
+
+---
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hemadrirawat" alt="Hemadri Rawat" /> </p>
 <p align="center">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Hemadri Rawat's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Hemadri049&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Hemadri Rawat's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hemadrirawat&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hemadri049&show_icons=true&theme=gotham" alt="Hemadri Rawat | Top Languages" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hemadrirawat&show_icons=true&theme=gotham" alt="Hemadri Rawat | Top Languages" /></p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Hemadri049&show_icons=true&theme=gotham" alt="Hemadri Rawat | Stats" />
-    <img alt="Hemadri's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Hemadri049&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=hemadrirawat&show_icons=true&theme=gotham" alt="Hemadri Rawat | Stats" />
+    <img alt="Hemadri's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hemadrirawat&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 </p>
+
+---
 
 ## Watch my contributions get eaten by a snake 🐍
-![snake gif](https://github.com/AartiKushwaha/AartiKushwaha/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/hemadrirawat/hemadrirawat/blob/output/github-contribution-grid-snake.svg)
 
 ## Connect with me 👩‍💻  
 <div align="center">
@@ -58,6 +64,7 @@ She/Her
 </a>
 <p align="right">(<a href="https://github.com/hemadrirawat">back to top</a>)</p>
 
+---
 
 ## Technical Skills
 <p align="left">
@@ -78,9 +85,7 @@ She/Her
 <a href="https://streamlit.io/" target="_blank"><img src="https://img.icons8.com/color/48/000000/streamlit.png" alt="Streamlit" height="40"/></a>
 <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot" height="40"/></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VSCode" height="40"/></a>
-<a href="https://www.figma.com/" target="_blank
-
-"><img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" height="40"/></a>
+<a href="https://www.figma.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" height="40"/></a>
 <a href="https://www.canva.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/canva.png" alt="Canva" height="40"/></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" height="40"/></a>
 <a href="https://github.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="GitHub" height="40"/></a>
@@ -90,5 +95,3 @@ She/Her
 <a href="https://wiki.python.org/moin/TkInter" target="_blank"><img src="https://img.icons8.com/color/48/000000/tkinter.png" alt="Tkinter" height="40"/></a>
 <a href="https://gradio.app/" target="_blank"><img src="https://img.icons8.com/color/48/000000/gradio.png" alt="Gradio" height="40"/></a>
 </p>
-
-
